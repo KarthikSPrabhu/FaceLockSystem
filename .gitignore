@@ -1,4 +1,6 @@
+temp.jpg
 __pycache__/
 *.pyc
 venv/
-.env
+
+face_recognition/known_faces/*.jpg
